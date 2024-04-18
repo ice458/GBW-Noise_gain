@@ -1630,7 +1630,7 @@
 	)
 	(polyline
 		(pts
-			(xy 17.78 133.35) (xy 118.11 133.35)
+			(xy 17.78 133.35) (xy 139.7 133.35)
 		)
 		(stroke
 			(width 0.2)
@@ -1787,6 +1787,16 @@
 			(type default)
 		)
 		(uuid "6dfebc6b-7c57-4fda-a87b-723533bb7594")
+	)
+	(polyline
+		(pts
+			(xy 139.7 163.83) (xy 139.7 15.24)
+		)
+		(stroke
+			(width 0.2)
+			(type dash)
+		)
+		(uuid "6edc9d34-9f69-459d-a9ea-4c844ca738e5")
 	)
 	(wire
 		(pts
@@ -2010,7 +2020,7 @@
 	)
 	(polyline
 		(pts
-			(xy 17.78 76.2) (xy 118.11 76.2)
+			(xy 17.78 76.2) (xy 139.7 76.2)
 		)
 		(stroke
 			(width 0.2)
@@ -2869,6 +2879,17 @@
 		)
 		(uuid "3e730ab4-d3f6-4dfa-8d81-9b459fd94f23")
 	)
+	(text "※これらのオペアンプのGB積は400kHz。"
+		(exclude_from_sim no)
+		(at 147.32 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "3eba1bd1-005d-4991-9d5a-2be962179540")
+	)
 	(text "シミュレーションを行うと、1と2の回路では直流利得が等しいのにかかわらず、\n2の回路のほうが遮断周波数が2倍高いことが分かる。\nこれは、シグナルゲインが等しいもののノイズゲインが2倍異なっているからである。\n1の回路の遮断周波数は、"
 		(exclude_from_sim no)
 		(at 213.36 118.11 0)
@@ -3615,7 +3636,7 @@
 	)
 	(text "※シミュレーションの実行方法\n上部タブの、検査→シミュレーター\nでシミュレーター起動。その後、実行ボタンを押す。"
 		(exclude_from_sim no)
-		(at 152.4 19.05 0)
+		(at 147.32 17.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
