@@ -1228,6 +1228,16 @@
 		(color 0 0 0 0)
 		(uuid "f2d835d6-c53f-4962-93c7-8a5659e23505")
 	)
+	(polyline
+		(pts
+			(xy 71.12 70.485) (xy 77.47 70.485)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "003dd72a-0364-4f22-976b-98cce637cddf")
+	)
 	(wire
 		(pts
 			(xy 152.4 58.42) (xy 152.4 57.15)
@@ -1287,6 +1297,16 @@
 			(type default)
 		)
 		(uuid "0e19d809-a3b1-409a-8311-176f463d7903")
+	)
+	(polyline
+		(pts
+			(xy 71.12 33.02) (xy 77.47 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f472ba3-8c2f-4818-8a44-928eef57d88b")
 	)
 	(wire
 		(pts
@@ -1350,7 +1370,7 @@
 	)
 	(polyline
 		(pts
-			(xy 231.14 130.175) (xy 234.95 130.175)
+			(xy 227.33 128.905) (xy 231.14 128.905)
 		)
 		(stroke
 			(width 0)
@@ -1540,7 +1560,7 @@
 	)
 	(polyline
 		(pts
-			(xy 227.33 128.27) (xy 235.585 128.27)
+			(xy 223.52 127) (xy 231.775 127)
 		)
 		(stroke
 			(width 0)
@@ -1590,7 +1610,7 @@
 	)
 	(polyline
 		(pts
-			(xy 219.075 147.32) (xy 224.155 147.32)
+			(xy 215.265 146.685) (xy 220.345 146.685)
 		)
 		(stroke
 			(width 0)
@@ -1660,7 +1680,7 @@
 	)
 	(polyline
 		(pts
-			(xy 42.545 148.59) (xy 50.8 148.59)
+			(xy 42.545 148.59) (xy 47.625 148.59)
 		)
 		(stroke
 			(width 0)
@@ -1680,7 +1700,7 @@
 	)
 	(polyline
 		(pts
-			(xy 76.835 22.86) (xy 80.645 22.86)
+			(xy 76.2 22.86) (xy 80.01 22.86)
 		)
 		(stroke
 			(width 0)
@@ -1770,7 +1790,7 @@
 	)
 	(polyline
 		(pts
-			(xy 231.14 149.225) (xy 234.95 149.225)
+			(xy 227.33 148.59) (xy 231.14 148.59)
 		)
 		(stroke
 			(width 0)
@@ -1820,7 +1840,7 @@
 	)
 	(polyline
 		(pts
-			(xy 227.33 137.16) (xy 235.585 137.16)
+			(xy 223.52 136.525) (xy 231.775 136.525)
 		)
 		(stroke
 			(width 0)
@@ -2180,7 +2200,7 @@
 	)
 	(polyline
 		(pts
-			(xy 38.1 143.51) (xy 41.91 143.51)
+			(xy 38.1 144.145) (xy 41.91 144.145)
 		)
 		(stroke
 			(width 0)
@@ -2197,16 +2217,6 @@
 			(type default)
 		)
 		(uuid "b5a05fbc-aa5b-417b-b60a-d5c083cbf67c")
-	)
-	(polyline
-		(pts
-			(xy 46.355 150.495) (xy 50.165 150.495)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5de6efb-6a1b-49a7-8cac-3abb96d8b194")
 	)
 	(wire
 		(pts
@@ -2300,7 +2310,7 @@
 	)
 	(polyline
 		(pts
-			(xy 227.33 147.32) (xy 235.585 147.32)
+			(xy 223.52 146.685) (xy 231.775 146.685)
 		)
 		(stroke
 			(width 0)
@@ -2430,7 +2440,7 @@
 	)
 	(polyline
 		(pts
-			(xy 219.075 137.16) (xy 224.155 137.16)
+			(xy 215.265 136.525) (xy 220.345 136.525)
 		)
 		(stroke
 			(width 0)
@@ -2570,7 +2580,7 @@
 	)
 	(polyline
 		(pts
-			(xy 219.075 128.27) (xy 224.155 128.27)
+			(xy 215.265 127) (xy 220.345 127)
 		)
 		(stroke
 			(width 0)
@@ -2722,7 +2732,7 @@
 	)
 	(text "10k"
 		(exclude_from_sim no)
-		(at 233.045 129.54 0)
+		(at 229.235 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2743,7 +2753,7 @@
 	)
 	(text "="
 		(exclude_from_sim no)
-		(at 226.695 137.16 0)
+		(at 222.885 136.525 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2775,7 +2785,7 @@
 	)
 	(text "=200kHz"
 		(exclude_from_sim no)
-		(at 236.22 128.27 0)
+		(at 232.41 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2786,7 +2796,7 @@
 	)
 	(text "400k"
 		(exclude_from_sim no)
-		(at 231.14 127.635 0)
+		(at 227.33 126.365 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2837,7 +2847,7 @@
 	)
 	(text "10k"
 		(exclude_from_sim no)
-		(at 233.045 151.13 0)
+		(at 229.235 150.495 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2846,7 +2856,7 @@
 		)
 		(uuid "34fda9c3-6508-49ca-82a7-077c081c670a")
 	)
-	(text "gain"
+	(text "1/β"
 		(exclude_from_sim no)
 		(at 36.83 150.495 0)
 		(effects
@@ -2859,7 +2869,7 @@
 	)
 	(text "=200kHz"
 		(exclude_from_sim no)
-		(at 236.22 147.32 0)
+		(at 232.41 146.685 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2892,7 +2902,7 @@
 	)
 	(text "シミュレーションを行うと、1と2の回路では直流利得が等しいのにかかわらず、\n2の回路のほうが遮断周波数が2倍高いことが分かる。\nこれは、シグナルゲインが等しいもののノイズゲインが2倍異なっているからである。\n1の回路の遮断周波数は、"
 		(exclude_from_sim no)
-		(at 213.36 118.11 0)
+		(at 209.55 116.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2925,7 +2935,7 @@
 	)
 	(text "GBW"
 		(exclude_from_sim no)
-		(at 46.355 147.955 0)
+		(at 45.085 147.955 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2953,17 +2963,6 @@
 		)
 		(uuid "43c5fa0b-9d1a-4029-a705-4f4cb14adabd")
 	)
-	(text "R1"
-		(exclude_from_sim no)
-		(at 48.26 152.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify bottom)
-		)
-		(uuid "4563259c-c121-4cfc-8226-e442efba8797")
-	)
 	(text "Vout"
 		(exclude_from_sim no)
 		(at 61.595 17.145 0)
@@ -2974,9 +2973,9 @@
 		)
 		(uuid "4989f9d3-f509-4d1e-8991-2782bf4cc482")
 	)
-	(text "と計算される。これは回路1と3のシミュレーション結果が完全に一致することを説明している。\nこれらのことから、ノイズゲインとシグナルゲインを別に設定することで\n直流利得を保ったまま周波数特性を変えることができることが分かる。"
+	(text "と計算される。これは回路1と3のシミュレーション結果が完全に一致することを説明している。\nこれらのことから、ノイズゲインとシグナルゲインを別に設定することで\n直流利得を保ったまま周波数特性を変えることができることが分かる。\n応用として、シングルエンド→差動変換をする回路で、差動の上下を同じ周波数特性にすることが可能。"
 		(exclude_from_sim no)
-		(at 213.995 152.4 0)
+		(at 210.185 151.765 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2998,7 +2997,7 @@
 	)
 	(text "10k"
 		(exclude_from_sim no)
-		(at 233.045 148.59 0)
+		(at 229.235 147.955 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3006,9 +3005,20 @@
 		)
 		(uuid "559da44c-9a1f-40e5-8d96-79efe3cde579")
 	)
+	(text "fc="
+		(exclude_from_sim no)
+		(at 71.12 70.485 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "56f8bbba-e518-4fcc-8653-171b71dcd717")
+	)
 	(text "="
 		(exclude_from_sim no)
-		(at 226.695 128.27 0)
+		(at 222.885 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3029,7 +3039,7 @@
 	)
 	(text "R1"
 		(exclude_from_sim no)
-		(at 40.005 145.415 0)
+		(at 40.005 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3040,7 +3050,7 @@
 	)
 	(text "gain=1+"
 		(exclude_from_sim no)
-		(at 76.835 22.86 0)
+		(at 76.2 22.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3061,7 +3071,7 @@
 	)
 	(text "R1"
 		(exclude_from_sim no)
-		(at 78.74 24.765 0)
+		(at 78.105 24.765 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3072,7 +3082,7 @@
 	)
 	(text "400k"
 		(exclude_from_sim no)
-		(at 231.14 136.525 0)
+		(at 227.33 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3082,7 +3092,7 @@
 	)
 	(text "="
 		(exclude_from_sim no)
-		(at 226.695 147.32 0)
+		(at 222.885 146.685 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3093,7 +3103,7 @@
 	)
 	(text "fc="
 		(exclude_from_sim no)
-		(at 218.44 128.27 0)
+		(at 214.63 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3134,7 +3144,7 @@
 		)
 		(uuid "75b29b89-a143-4845-8952-e2a76f59161a")
 	)
-	(text "オペアンプのGB積をGBWとすると、\nこの回路の遮断周波数は\nGBW/gain　←これは正しい。\n"
+	(text "オペアンプのGB積をGBWとすると、\nこの回路の遮断周波数は\n"
 		(exclude_from_sim no)
 		(at 66.675 26.67 0)
 		(effects
@@ -3145,9 +3155,9 @@
 		)
 		(uuid "792299dc-f0fe-4d12-b1b4-b12e28787ec3")
 	)
-	(text "gain"
+	(text "NG"
 		(exclude_from_sim no)
-		(at 221.615 130.175 0)
+		(at 217.805 128.905 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3156,9 +3166,19 @@
 		)
 		(uuid "7a09617e-eb66-4a9e-a136-a700bc82a400")
 	)
+	(text "GBW"
+		(exclude_from_sim no)
+		(at 74.295 32.385 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7fbc799c-f3da-4131-a655-64a3cd446950")
+	)
 	(text "と求まり、これはシミュレーションの結果と一致している。\nまた、3の回路のR3は、一見意味のない抵抗に見えるが、ノイズゲインに関わっており、"
 		(exclude_from_sim no)
-		(at 213.36 140.97 0)
+		(at 209.55 140.335 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3169,7 +3189,7 @@
 	)
 	(text "1+"
 		(exclude_from_sim no)
-		(at 231.14 149.225 0)
+		(at 227.33 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3180,7 +3200,7 @@
 	)
 	(text "GBW"
 		(exclude_from_sim no)
-		(at 221.615 127.635 0)
+		(at 217.805 126.365 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3211,7 +3231,7 @@
 	)
 	(text "R2"
 		(exclude_from_sim no)
-		(at 78.74 22.225 0)
+		(at 78.105 22.225 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3221,7 +3241,7 @@
 	)
 	(text "400k"
 		(exclude_from_sim no)
-		(at 231.14 146.685 0)
+		(at 227.33 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3231,7 +3251,7 @@
 	)
 	(text "10k"
 		(exclude_from_sim no)
-		(at 233.045 132.08 0)
+		(at 229.235 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3242,7 +3262,7 @@
 	)
 	(text "fc="
 		(exclude_from_sim no)
-		(at 218.44 147.32 0)
+		(at 214.63 146.685 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3284,7 +3304,7 @@
 	)
 	(text "R2"
 		(exclude_from_sim no)
-		(at 40.005 142.875 0)
+		(at 40.005 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3292,9 +3312,9 @@
 		)
 		(uuid "97380c22-90c3-4f4f-b122-874eabb9ce9b")
 	)
-	(text "gain"
+	(text "NG"
 		(exclude_from_sim no)
-		(at 221.615 139.065 0)
+		(at 217.805 138.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3303,9 +3323,20 @@
 		)
 		(uuid "99159b59-f0f4-4274-9323-331a2b45d8ca")
 	)
+	(text "←これは間違い！"
+		(exclude_from_sim no)
+		(at 81.915 70.485 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9a3be9f6-fece-44f2-95d7-674dcdc3fa56")
+	)
 	(text "1+"
 		(exclude_from_sim no)
-		(at 231.14 130.175 0)
+		(at 227.33 128.905 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3325,7 +3356,7 @@
 		)
 		(uuid "a084d02b-f00d-4f3f-854f-92bf5ae0ae3b")
 	)
-	(text "オペアンプのGB積をGBWとすると、\nこの回路の遮断周波数は\nGBW/gain　　←これは間違い！"
+	(text "オペアンプのGB積をGBWとすると、\nこの回路の遮断周波数は"
 		(exclude_from_sim no)
 		(at 66.675 64.135 0)
 		(effects
@@ -3348,7 +3379,7 @@
 	)
 	(text "GBW"
 		(exclude_from_sim no)
-		(at 221.615 146.685 0)
+		(at 217.805 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3356,9 +3387,9 @@
 		)
 		(uuid "a977fefc-5ebb-4303-9d46-6fe9478b045e")
 	)
-	(text "1+"
+	(text "NG"
 		(exclude_from_sim no)
-		(at 46.355 150.495 0)
+		(at 46.355 149.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3366,16 +3397,6 @@
 			(justify right)
 		)
 		(uuid "ace335e1-e4d9-4451-951a-f4978656225e")
-	)
-	(text "R2"
-		(exclude_from_sim no)
-		(at 48.26 149.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "af7e858b-8935-4de1-8fe8-af8514884c02")
 	)
 	(text "帰還率は非反転増幅回路と変わらない。\nつまり非反転増幅回路と同じくGB積からβの逆数を割れば回路の遮断周波数が求まる。"
 		(exclude_from_sim no)
@@ -3388,9 +3409,9 @@
 		)
 		(uuid "b3d9e0e4-d88e-4a17-ac26-29ac4c54d195")
 	)
-	(text "gain=1+"
+	(text "1/β=1+"
 		(exclude_from_sim no)
-		(at 38.1 143.51 0)
+		(at 38.1 144.145 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3398,6 +3419,17 @@
 			(justify right)
 		)
 		(uuid "b7d6132c-0be0-44e3-80d0-416e11d49991")
+	)
+	(text "fc="
+		(exclude_from_sim no)
+		(at 71.12 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b9a80159-b26d-4a4e-a7c9-0c75704e598a")
 	)
 	(text "帰還率βは"
 		(exclude_from_sim no)
@@ -3412,7 +3444,7 @@
 	)
 	(text "fc="
 		(exclude_from_sim no)
-		(at 218.44 137.16 0)
+		(at 214.63 136.525 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3444,13 +3476,23 @@
 	)
 	(text "GBW"
 		(exclude_from_sim no)
-		(at 221.615 136.525 0)
+		(at 217.805 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
 		(uuid "c031daa8-2763-4c5f-8f2b-a44e04475eaa")
+	)
+	(text "GBW"
+		(exclude_from_sim no)
+		(at 74.295 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c3b064fa-7186-406d-9200-c8fdff78da24")
 	)
 	(text "A(s)"
 		(exclude_from_sim no)
@@ -3473,6 +3515,17 @@
 		)
 		(uuid "c5f679f9-c207-4590-9a3f-af2563f3bb3a")
 	)
+	(text "←これは正しい"
+		(exclude_from_sim no)
+		(at 81.915 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c71e1dc3-a1f0-467c-8b46-e1b60c77f2df")
+	)
 	(text "Vout"
 		(exclude_from_sim no)
 		(at 65.405 85.09 0)
@@ -3494,6 +3547,17 @@
 		)
 		(uuid "d7cd8a02-0228-4f16-a0be-111c4831e972")
 	)
+	(text "|gain|"
+		(exclude_from_sim no)
+		(at 74.295 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify bottom)
+		)
+		(uuid "d974ebdd-be00-4386-87a5-e857fb2eb8c6")
+	)
 	(text "R1+R2"
 		(exclude_from_sim no)
 		(at 48.895 123.825 0)
@@ -3507,7 +3571,7 @@
 	)
 	(text "1"
 		(exclude_from_sim no)
-		(at 231.775 139.065 0)
+		(at 227.965 138.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3516,9 +3580,9 @@
 		)
 		(uuid "dd359279-5194-45dc-ad0f-7fa2d29517ef")
 	)
-	(text "gain"
+	(text "NG"
 		(exclude_from_sim no)
-		(at 221.615 149.225 0)
+		(at 217.805 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3572,7 +3636,7 @@
 	)
 	(text "=400kHz"
 		(exclude_from_sim no)
-		(at 236.22 137.16 0)
+		(at 232.41 136.525 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3580,6 +3644,17 @@
 			(justify left)
 		)
 		(uuid "ee46b7b3-b1a9-432a-823b-f810ea1f64c5")
+	)
+	(text "|gain|"
+		(exclude_from_sim no)
+		(at 74.295 34.925 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify bottom)
+		)
+		(uuid "f17aa7cb-882b-4741-b4b3-9ef46660a726")
 	)
 	(text "R1+R2"
 		(exclude_from_sim no)
@@ -3592,7 +3667,7 @@
 		)
 		(uuid "f4bb3c81-b98d-44a3-9c6a-0845cbffa7a0")
 	)
-	(text "このgain(βの逆数)は、所謂ノイズゲインと呼ばれるものである。\nノイズゲインは、オペアンプ内部で発生する雑音が、すべて非反転入力端子で\n発生したものとモデル化したとき、その雑音に対するゲインと定義される。\nオペアンプ回路の周波数特性を考えるときは、シグナルに対するゲインではなく、\nノイズゲインを用いるのが正しい。位相余裕を考えるときも同様。"
+	(text "このβの逆数は、所謂ノイズゲイン(NG)と呼ばれるものである。\nノイズゲインは、オペアンプ内部で発生する雑音が、すべて非反転入力端子で\n発生したものとモデル化したとき、その雑音に対するゲインと定義される。\nオペアンプ回路の周波数特性を考えるときは、シグナルに対するゲインではなく、\nノイズゲインを用いるのが正しい。位相余裕を考えるときも同様。"
 		(exclude_from_sim no)
 		(at 27.94 153.67 0)
 		(effects
@@ -3615,7 +3690,7 @@
 	)
 	(text "2の回路の遮断周波数は、"
 		(exclude_from_sim no)
-		(at 213.36 132.715 0)
+		(at 209.55 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
